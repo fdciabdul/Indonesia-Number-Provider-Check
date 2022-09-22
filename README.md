@@ -9,7 +9,7 @@ npm install indonesia-number-provider-checker
 ```
 
 # Usage
-
+```javascript
 const operator = require('indonesia-number-provider-checker').operator;
 
 const check = operator("0896xxxxx");
@@ -17,5 +17,14 @@ const check = operator("0896xxxxx");
 console.log(check);
 
 // return => Three
+```
 
+# Test 
+
+
+```bash
+
+npm test
+
+```
 
