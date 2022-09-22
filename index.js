@@ -20,7 +20,7 @@ const list = {
     "By.u":[
         "0851"
     ],
-    "Live One":[
+    "Live On":[
         "0859"
     ],
 }
