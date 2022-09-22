@@ -1,5 +1,5 @@
 {
-  "name": "indonesia-number-provider-check",
+  "name": "indonesia-number-provider-checker",
   "version": "1.0.0",
   "description": "simple library untuk mereturn nama operator yang ada dalam nomor",
   "main": "index.js",
@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/fdciabdul/Indonesia-Number-Provider-Check.git"
   },
-  "author": "",
+  "author": "Abdul Muttaqin <abdulmuttaqin456@gmail.com>",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/fdciabdul/Indonesia-Number-Provider-Check/issues"
