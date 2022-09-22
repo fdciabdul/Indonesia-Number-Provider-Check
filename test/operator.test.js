@@ -26,6 +26,9 @@ describe('operator', () => {
     it('should return By.u', () => {
         expect(operator('0851111111111')).to.equal('By.u');
     });
+    it('should return Live On', () => {
+        expect(operator('0859111111111')).to.equal('Live On');
+    });
     it('should return Unknown', () => {
         expect(operator('081011111111')).to.equal('Unknown');
     });

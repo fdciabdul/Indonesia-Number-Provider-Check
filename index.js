@@ -26,6 +26,12 @@ const list = {
 }
 
 // find the operator
+/**
+ * Find Operator Name
+ * @date 2022-09-23
+ * @param {any} number
+ * @returns {any}
+ */
 exports.operator = (number) => {
     let result = 'Unknown';
 
