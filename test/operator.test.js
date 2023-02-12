@@ -32,4 +32,7 @@ describe('operator', () => {
     it('should return Unknown', () => {
         expect(operator('081011111111')).to.equal('Unknown');
     });
+    it('started with 62', () => {
+        expect(operator('6281111111111')).to.equal('Telkomsel');
+    });
 });
