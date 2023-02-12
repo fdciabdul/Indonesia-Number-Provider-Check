@@ -1,4 +1,4 @@
-# ini-operator-apa
+# indonesia number provider checker
 simple library untuk mereturn nama operator yang ada dalam nomor
 
 
